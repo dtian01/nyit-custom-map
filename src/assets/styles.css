@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+.btn-blue { @apply bg-blue-300 }
+@tailwind utilities;
