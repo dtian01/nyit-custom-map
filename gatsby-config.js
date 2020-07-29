@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/nyit-custom-map`,
   siteMetadata: {
     title: `Starter Gatsby Default`,
     description: `Starter Gatsby Default`,
